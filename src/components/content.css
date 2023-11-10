@@ -1,0 +1,19 @@
+.content {
+    padding         : 10px 30px;
+    background-color: #EFEFEF;
+
+}
+
+
+.line1 {
+    text-align   : center;
+    margin-bottom: 10px;
+    font-size    : 15px;
+    font-weight  : bold;
+}
+
+.line2 {
+    text-align   : center;
+    margin-bottom: 10px;
+    padding      : 20px 200px;
+}
